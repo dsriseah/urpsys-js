@@ -1,0 +1,10 @@
+{
+  "name": "@dsricomp/urpsys",
+  "version": "1.0.0-alpha.1",
+  "description": "Sri's Universal 'Ractive Play System (URPSYS)",
+  "author": "DSri Seah",
+  "license": "MIT",
+  "workspaces": [
+    "urp_packages/*"
+  ]
+}
